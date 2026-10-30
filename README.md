@@ -17,3 +17,9 @@ My web development journey started around 5 years ago with HTML. I then mastered
 To explore backend development, I started with PHP and learned Laravel. However, driven by my personal interests, I eventually moved to Node.js and its popular framework, Express.js.
 
 Today, I focus on backend development with Node.js and Express.js, while continuing to grow as a Full Stack Developer.
+
+## 📬 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/amirmalakotie)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:amirmohammadmalakotie@gmail.com)
