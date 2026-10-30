@@ -1,3 +1,19 @@
+
+<div align="center">
+
+# Hi, I'm Amir Mohammad 👋
+
+### Full Stack Web Developer
+
+Building modern, scalable and efficient web applications.
+
+**Node.js | Express.js | JavaScript**
+
+</div>
+
+---
+
+
 # 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building web applications.
