@@ -9,3 +9,11 @@ I'm a Full Stack Developer passionate about building web applications.
 ## ⚙️ Backend Development
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,ts)](https://skillicons.dev)
+
+## 🚀 My Journey
+
+My web development journey started around 5 years ago with HTML. I then mastered CSS and its popular framework, Tailwind CSS, before diving deep into JavaScript.
+
+To explore backend development, I started with PHP and learned Laravel. However, driven by my personal interests, I eventually moved to Node.js and its popular framework, Express.js.
+
+Today, I focus on backend development with Node.js and Express.js, while continuing to grow as a Full Stack Developer.
